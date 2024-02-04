@@ -17,4 +17,6 @@ Work
 ```
 
 #### Usage:
+```
 py main.py C:\Users\john\tree.txt (input) C:\Users\john\Documents (output)
+```
